@@ -1,0 +1,7 @@
+# Ignore the files created by the script
+autosplit.log
+split.log*.tar.gz
+
+# Ignore vim swap file
+*.swp
+
